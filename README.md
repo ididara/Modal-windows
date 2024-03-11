@@ -1,2 +1,2 @@
-# Modal-windows
-Modal-windows
+This is not actually a project, it is more a description which is used in lot of situations. When we have 3 modals (or more, or less) on the site, the processes made in this project are: how to make modal in front, how to make everything under modal (overlay) blurred, how to make modals hide away again after the ESC button is clicked, or clicked on the upper right edge of the window on X, or just clicked on the overlay - blurred part of the site, which is not modal. We also covered how to log to the console which button is pressed on the keyboard.
+This is project made on Udemy course, HTML and CSS were not made by myself.
